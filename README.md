@@ -1,5 +1,8 @@
 ### Hello there 👋
 
+My name is Jakob, and I am a computer science student at NTNU Trondheim.
+
+[![Itzjacki's github stats](https://github-readme-stats.vercel.app/api?username=itzjacki)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **itzjacki/itzjacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
