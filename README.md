@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Jakob, and I am a computer science student at NTNU Trondheim. I have a pretty, proper portfolio website in the works, but for now this will have to do. Check out some of my my projects here:
+My name is Jakob, and I am a developer living in Trondheim. Check out some of my my projects here:
 
 
 [🎓 emnr.no:](https://emnr.no) Website where university students can rate their courses. Created in collaboration with a fantastic group of people as part of a university project.
