@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Jakob, and I am a developer living in Trondheim. Check out some of my projects here:
+My name is Jakob, and I am a developer living in Trondheim. On my [website](https://jakob.fun) you can find a full overview of my projects and portolio. I have also posted some highlights here:
 
 
 [🎓 emnr.no:](https://emnr.no) Website where university students can rate their courses. Created in collaboration with a fantastic group of people as part of a university project.
